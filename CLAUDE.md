@@ -50,3 +50,5 @@ export default function Page({ params }) {
 
 `items` เป็น jsonb ที่แต่ละรายการมี:
 `name`, `quantity`, `price`, `options`, `status`, `created_at`
+
+
